@@ -51,7 +51,7 @@ The objective is to identify sales trends, evaluate profitability, compare produ
 6. November 2017 recorded the highest monthly sales.
 
 ## Power BI Dashboard
-![Superstore Sales Analytics Dashboard](screenshots/Dashboard/Superstore_Dashboard.png)
+![Superstore Sales Analytics Dashboard](Superstore_Dashboard.png)
 The interactive dashboard includes:
 
 - Total Sales
